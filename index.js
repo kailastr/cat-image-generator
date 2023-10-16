@@ -10,4 +10,6 @@ const CatImageGenerator = () => {
 
     var randomImage = Math.floor(Math.random() * 5);
 
+    return CatImages[randomImage];
+
 }
