@@ -1,2 +1,2 @@
-# string-reverse
-This is a string reverse npm package
+# cat-image-generator
+This is a cat image generatot npm package
