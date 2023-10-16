@@ -1,0 +1,19 @@
+{
+  "name": "cat-image-generator",
+  "version": "1.0.0",
+  "description": "An NPM Package to reverse the string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kailastr/string-reverse.git"
+  },
+  "author": "Kailas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kailastr/string-reverse/issues"
+  },
+  "homepage": "https://github.com/kailastr/string-reverse#readme"
+}
