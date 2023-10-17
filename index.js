@@ -1,4 +1,4 @@
-const CatImageGenerator = () => {
+export const CatImageGenerator = () => {
 
     const CatImages = [
         "https://img.freepik.com/free-photo/cute-domestic-kitten-sitting-leaf-generative-ai_188544-8316.jpg",
